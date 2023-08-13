@@ -1,2 +1,1 @@
-API Projelerinizde kullanabileceğiniz IP bazlı sınırlama koymamızı sağlayan Middleware Yapısı
-
+ .𝐍𝐄𝐓 𝐂𝐨𝐫𝐞 𝐑𝐄𝐒𝐓 𝐀𝐏𝐈 Projeleriniz için kullanabileceğiniz IP bazlı Request yasaklaması yapmamızı veya IP Bazlı Request izni vermemizi sağlayan 𝐌𝐢𝐝𝐝𝐥𝐞𝐰𝐚𝐫𝐞 (Ara Katman Yazılımı) Yapısı. ( 𝐂𝐮𝐬𝐭𝐨𝐦 𝐌𝐢𝐝𝐝𝐥𝐞𝐰𝐚𝐫𝐞 )
